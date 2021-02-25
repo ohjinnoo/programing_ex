@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="" />
+    <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="spring di">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/di.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +23,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -33,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602589095337</updated>
       <workItem from="1602589099889" duration="246000" />
+      <workItem from="1614212276615" duration="2543000" />
     </task>
     <servers />
   </component>
@@ -40,9 +53,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="356" y="6" key="CommitChangelistDialog2" timestamp="1602589326194">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="579" y="113" key="CommitChangelistDialog2" timestamp="1614215076872">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="356" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602589326194" />
+    <state x="579" y="113" key="CommitChangelistDialog2/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614215076872" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1614215015299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614215015299" />
   </component>
 </project>
