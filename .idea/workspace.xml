@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/redis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/wlan.md" afterDir="false" />
+    <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="srping anontation&#10;spring security config&#10;인증이란">
+      <change afterPath="$PROJECT_DIR$/database/el.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/elasticsearch.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/작업진행/dlp git 변경/BlueXray-DLP/bluexray_gen_batch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,7 +45,13 @@
       <option name="presentableId" value="Default" />
       <updated>1602589095337</updated>
       <workItem from="1602589099889" duration="246000" />
-      <workItem from="1614212276615" duration="6696000" />
+      <workItem from="1614212276615" duration="9007000" />
+      <workItem from="1614642355122" duration="679000" />
+      <workItem from="1614668222759" duration="3102000" />
+      <workItem from="1614728985753" duration="9327000" />
+      <workItem from="1614767430710" duration="1985000" />
+      <workItem from="1614914891487" duration="531000" />
+      <workItem from="1615367050943" duration="156000" />
     </task>
     <task id="LOCAL-00001" summary="spring di">
       <created>1614215087601</created>
@@ -56,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614215087601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="redis&#10;wlan">
+      <created>1614304229948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614304229948</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jenkins">
+      <created>1614670891300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614670891301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="srping anontation&#10;spring security config&#10;인증이란">
+      <created>1614767473854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614767473854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,24 +89,39 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring di" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring di" />
+    <MESSAGE value="redis&#10;wlan" />
+    <MESSAGE value="jenkins" />
+    <MESSAGE value="srping anontation&#10;spring security config&#10;인증이란" />
+    <option name="LAST_COMMIT_MESSAGE" value="srping anontation&#10;spring security config&#10;인증이란" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="579" y="113" key="CommitChangelistDialog2" timestamp="1614215085657">
+    <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614751812444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="579" y="113" key="CommitChangelistDialog2/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614215085657" />
-    <state x="184" y="86" key="DiffContextDialog" timestamp="1614215015299">
+    <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614751812444" />
+    <state x="579" y="113" key="CommitChangelistDialog2" timestamp="1615367202595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" key="DiffContextDialog/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614215015299" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1614217792630">
+    <state x="579" y="113" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1615367202595" />
+    <state x="579" y="113" key="CommitChangelistDialog2/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614304226383" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1615367202173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="184" y="86" key="DiffContextDialog/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1615367202173" />
+    <state x="184" y="86" key="DiffContextDialog/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614304213360" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1614915135764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614915135764" />
     <state x="740" y="274" key="FileChooserDialogImpl/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614217792630" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614304186039">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614767475482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614304186039" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614767475482" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.-786.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614331874920" />
+    <state x="339" y="221" key="new project wizard" timestamp="1614915143624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="221" key="new project wizard/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1614915143624" />
   </component>
 </project>
