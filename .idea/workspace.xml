@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ing/infoProc2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ing/infoProc1.md" beforeDir="false" afterPath="$PROJECT_DIR$/ing/infoProc1.md" afterDir="false" />
     </list>
@@ -33,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="E:/ing/BlueXray-DLP/bluexray_gen_batch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -169,7 +170,9 @@
       <workItem from="1622692443256" duration="633000" />
       <workItem from="1623313078141" duration="1450000" />
       <workItem from="1623392704021" duration="2109000" />
-      <workItem from="1623825440923" duration="8554000" />
+      <workItem from="1623825440923" duration="10562000" />
+      <workItem from="1623993023090" duration="16000" />
+      <workItem from="1624234263489" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="spring di">
       <created>1614215087601</created>
@@ -255,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623977524453</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="정보처리 기사 실기 준비 2021-06-18">
+      <created>1623979855334</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623979855334</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,10 +299,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1616385533952" />
-    <state x="-761" y="-496" key="CommitChangelistDialog2" timestamp="1623977523495">
+    <state x="-761" y="-496" key="CommitChangelistDialog2" timestamp="1623979853853">
       <screen x="-1080" y="-700" width="1080" height="1880" />
     </state>
-    <state x="-761" y="-496" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1623977523495" />
+    <state x="-761" y="-496" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1623979853853" />
     <state x="579" y="113" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1623313297129" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1623313279893">
       <screen x="0" y="0" width="1920" height="1040" />
