@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ee84737-8615-44c3-b3a9-ef0c33eb35d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ing/infoProc2.md" beforeDir="false" afterPath="$PROJECT_DIR$/ing/infoProc2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.4959631" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -172,7 +171,7 @@
       <workItem from="1623825440923" duration="10562000" />
       <workItem from="1623993023090" duration="16000" />
       <workItem from="1624234263489" duration="1888000" />
-      <workItem from="1624269705624" duration="1496000" />
+      <workItem from="1624269705624" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="spring di">
       <created>1614215087601</created>
@@ -272,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624269743129</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="정보처리 기사 실기 준비 2021-06-22">
+      <created>1624344605815</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624344605815</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +298,8 @@
     <MESSAGE value="정보처리 기사 실기 준비 2021-06-17" />
     <MESSAGE value="정보처리 기사 실기 준비 2021-06-18" />
     <MESSAGE value="정보처리 기사 실기 준비 2021-06-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="정보처리 기사 실기 준비 2021-06-21" />
+    <MESSAGE value="정보처리 기사 실기 준비 2021-06-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="정보처리 기사 실기 준비 2021-06-22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="672" y="189" key="#Ex02_(1)" timestamp="1617683272418">
@@ -307,10 +314,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1616385533952" />
-    <state x="-761" y="-496" key="CommitChangelistDialog2" timestamp="1624269741542">
+    <state x="-761" y="-496" key="CommitChangelistDialog2" timestamp="1624344604219">
       <screen x="-1080" y="-700" width="1080" height="1880" />
     </state>
-    <state x="-761" y="-496" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1624269741542" />
+    <state x="-761" y="-496" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1624344604219" />
     <state x="579" y="113" key="CommitChangelistDialog2/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1623313297129" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1623313279893">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -363,14 +370,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="354" key="GridCell.Tab.1.right/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1616544282028" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1616385632370">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="SettingsEditor/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1616385632370" />
-    <state x="-816" y="-244" key="Vcs.Push.Dialog.v2" timestamp="1624269746784">
+    <state x="-998" y="-530" key="SettingsEditor" timestamp="1624345490929">
       <screen x="-1080" y="-700" width="1080" height="1880" />
     </state>
-    <state x="-816" y="-244" key="Vcs.Push.Dialog.v2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1624269746784" />
+    <state x="-998" y="-530" key="SettingsEditor/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1624345490929" />
+    <state x="440" y="94" key="SettingsEditor/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1616385632370" />
+    <state x="-816" y="-244" key="Vcs.Push.Dialog.v2" timestamp="1624344923443">
+      <screen x="-1080" y="-700" width="1080" height="1880" />
+    </state>
+    <state x="-816" y="-244" key="Vcs.Push.Dialog.v2/-1080.-700.1080.1880/0.0.1920.1040@-1080.-700.1080.1880" timestamp="1624344923443" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.-700.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1623313299834" />
     <state x="-713" y="-80" key="com.intellij.ide.util.TipDialog" timestamp="1624269718251">
       <screen x="-1080" y="-700" width="1080" height="1880" />
